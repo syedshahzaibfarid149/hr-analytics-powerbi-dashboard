@@ -71,5 +71,5 @@ The dataset contains 1,800 employee records with information such as:
 ## Author
 **Syed Shahzaib Farid**
 
-Aspiring Data Analyst | Power BI | SQL | Advanced Excel
+GitHub: https://github.com/syedshahzaibfarid149
 
