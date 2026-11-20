@@ -5,6 +5,10 @@ This project focuses on analyzing employee attrition using Microsoft Power BI. T
 
 The project uses a simulated dataset containing 1,800 employee records.
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR_Analytics_Dashboard_Screenshot.png)
+
 ## Tools & Technologies
 - Microsoft Power BI
 - Power Query
