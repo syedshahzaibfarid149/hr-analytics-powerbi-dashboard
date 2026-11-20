@@ -65,11 +65,13 @@ The dataset contains 1,800 employee records with information such as:
 ## How to Use
 1. Download or clone this repository.
 2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. If prompted, update the CSV data source path.
+3. If prompted, update the Excel data source path.
 4. Explore the dashboard using the interactive slicers.
 
 ## Author
 **Syed Shahzaib Farid**
 
-GitHub: https://github.com/syedshahzaibfarid149
+Aspiring Data Analyst | Power BI | SQL | Advanced Excel
+
+GitHub: [syedshahzaibfarid149](https://github.com/syedshahzaibfarid149)
 
